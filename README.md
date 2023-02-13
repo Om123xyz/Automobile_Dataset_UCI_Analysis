@@ -1,4 +1,4 @@
-# Automobile_Dataset_UCI_Analysis
+# UCI_Automobile_Dataset_Exploratory_dataAnalysis
 
 In this project, I have done exploratory data analysis on the UCI Automobile dataset available at https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
 
